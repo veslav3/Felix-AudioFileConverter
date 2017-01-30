@@ -55,6 +55,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Conversion\AiffToMp3.cs" />
     <Compile Include="Conversion\IConversionMethod.cs" />
     <Compile Include="Conversion\Mp3ToWave.cs" />
     <Compile Include="Conversion\WaveToMp3.cs" />
